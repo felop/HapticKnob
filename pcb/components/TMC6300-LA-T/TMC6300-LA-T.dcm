@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC6300-LA-T
+D Highly Efficient Low Voltage, Zero Standby Current Driver for 3-Phase BLDC/PMSM Motors up to 2A peak, Triple Half-Bridge with separate HS and LS control signals
+K
+F https://www.analog.com/TMC6300/datasheet
+$ENDCMP
+#
+#End Doc Library
