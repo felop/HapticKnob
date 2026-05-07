@@ -1,0 +1,3 @@
+# Haptic Knob
+
+Développement d’un dispositif à retour haptique contrôlant l’éclairage d’une maquette. Modélisation de textures ressenties sous les doigts, à partir de fonctions simulant des forces de frottement, ressorts internes et effets de seuil, ajustables dynamiquement pour créer crans, irrégularités ou zones fluides. Système conçu autour d’un moteur BLDC et d’un encodeur magnétique (MT6701), piloté par un esp32.
